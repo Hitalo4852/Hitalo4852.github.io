@@ -6,7 +6,7 @@ body{
 .container {
   aling-itens:center;
   margin-top:20px;
-  backgroud-color:grey;
+  backgroud-color:(54,54,54);
   padding:50px;
   border-radius:30px;
   border-color:#32064c;
